@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 235,
-    "timeDay": 235,
-    "timeWeek": 235,
-    "timeMonth": 235,
-    "timeYear": 235,
+    "time": 202,
+    "timeDay": 136,
+    "timeWeek": 202,
+    "timeMonth": 202,
+    "timeYear": 202,
     "dailyMinutesDown": {}
   },
   {
@@ -23,18 +23,16 @@
     "icon": "https://favicons.githubusercontent.com/api.coinpulse.live",
     "slug": "coinpulse-api-v1",
     "status": "up",
-    "uptime": "96.48%",
-    "uptimeDay": "96.48%",
-    "uptimeWeek": "96.48%",
-    "uptimeMonth": "96.48%",
-    "uptimeYear": "96.48%",
-    "time": 111,
-    "timeDay": 111,
-    "timeWeek": 111,
-    "timeMonth": 111,
-    "timeYear": 111,
-    "dailyMinutesDown": {
-      "2022-01-18": 25
-    }
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 145,
+    "timeDay": 248,
+    "timeWeek": 145,
+    "timeMonth": 145,
+    "timeYear": 145,
+    "dailyMinutesDown": {}
   }
 ]
