@@ -1,7 +1,7 @@
 url: https://api.coinpulse.live/v1/ping
-status: up
-code: 200
-responseTime: 230
-lastUpdated: 2022-01-21T07:33:56.579Z
+status: down
+code: 429
+responseTime: 183
+lastUpdated: 2022-01-21T07:51:17.833Z
 startTime: Tue Jan 18 2022 12:31:05 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
