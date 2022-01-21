@@ -6,9 +6,9 @@ sites:
   - name: Coinpulse Website
     url: https://coinpulse.live
   - name: Coinpulse API v1
-    url: https://api.coinpulse.live/v1
+    url: https://api.coinpulse.live/v1/ping
     expectedStatusCodes: 
-    - 404
+    - 200
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
