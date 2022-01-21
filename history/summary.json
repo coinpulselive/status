@@ -22,19 +22,19 @@
     "url": "https://api.coinpulse.live/v1/ping",
     "icon": "https://favicons.githubusercontent.com/api.coinpulse.live",
     "slug": "coinpulse-api-v1",
-    "status": "down",
-    "uptime": "99.00%",
-    "uptimeDay": "97.14%",
-    "uptimeWeek": "99.00%",
-    "uptimeMonth": "99.00%",
-    "uptimeYear": "99.00%",
-    "time": 200,
-    "timeDay": 231,
-    "timeWeek": 200,
-    "timeMonth": 200,
-    "timeYear": 200,
+    "status": "up",
+    "uptime": "98.20%",
+    "uptimeDay": "94.81%",
+    "uptimeWeek": "98.20%",
+    "uptimeMonth": "98.20%",
+    "uptimeYear": "98.20%",
+    "time": 202,
+    "timeDay": 230,
+    "timeWeek": 202,
+    "timeMonth": 202,
+    "timeYear": 202,
     "dailyMinutesDown": {
-      "2022-01-21": 41
+      "2022-01-21": 75
     }
   }
 ]
