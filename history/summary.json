@@ -4,19 +4,19 @@
     "url": "https://coinpulse.live",
     "icon": "https://favicons.githubusercontent.com/coinpulse.live",
     "slug": "coinpulse-website",
-    "status": "up",
-    "uptime": "99.99%",
-    "uptimeDay": "99.59%",
-    "uptimeWeek": "99.94%",
-    "uptimeMonth": "99.99%",
-    "uptimeYear": "99.99%",
-    "time": 1310,
-    "timeDay": 1010,
-    "timeWeek": 1324,
-    "timeMonth": 1542,
-    "timeYear": 1310,
+    "status": "down",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 1305,
+    "timeDay": 1027,
+    "timeWeek": 1306,
+    "timeMonth": 1530,
+    "timeYear": 1305,
     "dailyMinutesDown": {
-      "2022-02-22": 6
+      "2022-02-22": 0
     }
   },
   {
