@@ -4,7 +4,7 @@
     "url": "https://coinpulse.live",
     "icon": "https://favicons.githubusercontent.com/coinpulse.live",
     "slug": "coinpulse-website",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -15,7 +15,9 @@
     "timeWeek": 2250,
     "timeMonth": 2145,
     "timeYear": 1607,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-03-26": 0
+    }
   },
   {
     "name": "Coinpulse API v1",
